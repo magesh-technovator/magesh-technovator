@@ -23,9 +23,9 @@ Hi, I'm Magesh — an **AI Engineer** Focused on building real-time AI solutions
 
 > Deep Learning || Computer Vision || NLP || Datascience || MLOps
 
-> Python || Serverless || Docker || Microservices || Kubernetes
+> Pytorch || Tensorflow || OpenCV || Transformers || spaCy  
 
-> MongoDB || DynamoDB || Sql
+> Serverless || Docker || Microservices || Kubernetes
 
 > AWS || Azure || Heroku
 
