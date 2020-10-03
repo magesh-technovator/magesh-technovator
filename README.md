@@ -47,5 +47,7 @@ Hi, I'm Magesh — an **AI Engineer** Focused on building real-time AI solutions
 
 ## Blogs:
 > [How far are we from replicating Human Brain into a Computer?](https://medium.com/technovators/how-far-are-we-from-replicating-human-brain-into-a-computer-7bd346dead3)
+
 > [Topic Modeling](https://medium.com/@MageshDominator/topic-modeling-art-of-storytelling-in-nlp-4dc83e96a987)
+
 > [Multi-label text classification](https://medium.com/@MageshDominator/machine-learning-based-multi-label-text-classification-9a0e17f88bb4)
