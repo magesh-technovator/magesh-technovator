@@ -1,21 +1,15 @@
-[1.1]: https://github.com/MageshDominator/MageshDominator/blob/master/assets/linkedin.png (linkedin)
 [2.1]: https://github.com/MageshDominator/MageshDominator/blob/master/assets/github.png (github)
-[3.1]: https://github.com/MageshDominator/MageshDominator/blob/master/assets/twitter.png (twitter)
 [4.1]: https://github.com/MageshDominator/MageshDominator/blob/master/assets/medium.png (medium)
 
 
-[1]: https://www.linkedin.com/in/magesh2921
 [2]: https://www.github.com/MageshDominator
-[3]: https://www.twitter.com/MageshDominator
 [4]: http://www.medium.com/@MageshDominator
 
 # AI Researcher, Tech Geek and a Killer Programmer!
 
 Hi, I'm Magesh — an **AI Engineer** Focused on building real-time AI solutions.
 
-[![linkedin magesh2921][1.1]][1]
 [![github MageshDominator][2.1]][2]
-[![twitter MageshDominator][3.1]][3]
 [![medium MageshDominator][4.1]][4]
 
 
@@ -50,3 +44,8 @@ Hi, I'm Magesh — an **AI Engineer** Focused on building real-time AI solutions
 > Open-source Tech Hacks
 
 > Read & write TECH BLOGS
+
+## Blogs:
+> [How far are we from replicating Human Brain into a Computer?](https://medium.com/technovators/how-far-are-we-from-replicating-human-brain-into-a-computer-7bd346dead3)
+> [Topic Modeling](https://medium.com/@MageshDominator/topic-modeling-art-of-storytelling-in-nlp-4dc83e96a987)
+> [Multi-label text classification](https://medium.com/@MageshDominator/machine-learning-based-multi-label-text-classification-9a0e17f88bb4)
