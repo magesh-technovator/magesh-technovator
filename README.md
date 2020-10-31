@@ -50,6 +50,9 @@ Hi, I'm Magesh — **AI Engineer** Focused on building real-time AI solutions.
 
 > [How far are we from replicating the Human Brain into a Computer?](https://medium.com/technovators/how-far-are-we-from-replicating-human-brain-into-a-computer-7bd346dead3) --Introduction to astounding facts about the Human Brain and comparing them with recent advancements in AI
 
+## CV Blogs:
+> [Everything You Need to Know About Image Segmentation](https://medium.com/technovators/everything-you-need-to-know-about-image-segmentation-c684a3a61df7) --A Comprehensive survey on Image Segmentation
+
 ## NLP Blogs:
 > [Topic Modeling: Art of Storytelling in NLP](https://medium.com/@MageshDominator/topic-modeling-art-of-storytelling-in-nlp-4dc83e96a987) --Survey on Topic Modeling LSA, pLSA, LDA with implementation in python
 
