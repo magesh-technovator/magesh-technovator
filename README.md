@@ -4,7 +4,7 @@
 [4]: http://www.medium.com/@MageshDominator
 [2]: https://www.github.com/MageshDominator
 
-# AI Engineer, Tech Geek, and a Killer Programmer!
+# AI Engineer, Tech Geek, and a Passionate Programmer!
 
 Hi, I'm Magesh — **AI Engineer** Focused on building real-time AI solutions.
 
