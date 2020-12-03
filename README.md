@@ -53,6 +53,8 @@ Hi, I'm Magesh — **AI Engineer** Focused on building real-time AI solutions.
 ## CV Blogs:
 > [Everything You Need to Know About Image Segmentation](https://medium.com/technovators/everything-you-need-to-know-about-image-segmentation-c684a3a61df7) --A Comprehensive survey on Image Segmentation
 
+> [Semantic Segmentation using DeepLabV3](https://medium.com/technovators/semantic-segmentation-using-deeplabv3-ce68621e139e)
+
 ## NLP Blogs:
 > [Topic Modeling: Art of Storytelling in NLP](https://medium.com/@MageshDominator/topic-modeling-art-of-storytelling-in-nlp-4dc83e96a987) --Survey on Topic Modeling LSA, pLSA, LDA with implementation in python
 
