@@ -55,6 +55,9 @@ Hi, I'm Magesh — **AI Engineer** Focused on building real-time AI solutions.
 
 > [Semantic Segmentation using DeepLabV3](https://medium.com/technovators/semantic-segmentation-using-deeplabv3-ce68621e139e)
 
+## OCR:
+> [Improving OCR Accuracy with Image preprocessing](https://medium.com/technovators/survey-on-image-preprocessing-techniques-to-improve-ocr-accuracy-616ddb931b76)
+
 ## NLP Blogs:
 > [Topic Modeling: Art of Storytelling in NLP](https://medium.com/@MageshDominator/topic-modeling-art-of-storytelling-in-nlp-4dc83e96a987) --Survey on Topic Modeling LSA, pLSA, LDA with implementation in python
 
