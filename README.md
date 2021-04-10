@@ -12,7 +12,7 @@ Hi, I'm Magesh — **AI Engineer** Focused on building real-time AI solutions.
 
 [![medium MageshDominator][4.1]][4]
 [![github MageshDominator][2.1]][2]
-[![linkedin MageshDominator][5.1][5]
+[![linkedin MageshDominator][5.1]
 
 ## Skills:
 
