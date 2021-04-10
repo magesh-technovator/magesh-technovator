@@ -1,8 +1,10 @@
 [2.1]: https://github.com/MageshDominator/MageshDominator/blob/master/assets/github.png (github)
 [4.1]: https://github.com/MageshDominator/MageshDominator/blob/master/assets/medium.png (medium)
+[5.1]: https://github.com/MageshDominator/MageshDominator/blob/master/assets/linkedin.png (linkedin)
 
 [4]: http://www.medium.com/@MageshDominator
 [2]: https://www.github.com/MageshDominator
+[5]: https://www.linkedin.com/in/magesh2921
 
 # AI Engineer, Tech Geek, and a Passionate Programmer!
 
@@ -10,6 +12,7 @@ Hi, I'm Magesh — **AI Engineer** Focused on building real-time AI solutions.
 
 [![medium MageshDominator][4.1]][4]
 [![github MageshDominator][2.1]][2]
+[![linkedin MageshDominator][5.1][5]
 
 ## Skills:
 
