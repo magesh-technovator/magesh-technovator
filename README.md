@@ -23,6 +23,7 @@ Hi, I'm Magesh — **AI Engineer** Focused on building real-time AI solutions.
 
 
 ## Hats:
+> Machine Learning Engineer @yougroup.io - NLP for Tourism Industry
 
 > AI Engineer @Concord - NLP, Computer Vision for Document Intelligence
 
@@ -33,7 +34,7 @@ Hi, I'm Magesh — **AI Engineer** Focused on building real-time AI solutions.
 
 ## Love To:
 
-> CODE
+> CODE, Read Books
 
 > Understand Human Brain, Psychology
 
