@@ -16,13 +16,13 @@ Hi, I'm Magesh — **AI Engineer** Focused on building real-time AI solutions.
 
 ## Skills:
 
-> Deep Learning || Computer Vision || NLP || Datascience || MLOps
+> Deep Learning || NLP || MLOps || Computer Vision || Datascience
 
-> Pytorch || Tensorflow || OpenCV || Transformers || spaCy  
+> Pytorch || Tensorflow || Transformers || spaCy || OpenCV
 
-> Serverless || Docker || Microservices || Kubernetes
+> Serverless || Airflow || Docker || Microservices || Kubernetes
 
-> AWS || Azure || Heroku
+> AWS || Azure || Heroku || GCP
 
 
 ## Hats:
