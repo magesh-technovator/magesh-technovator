@@ -60,6 +60,8 @@ Hi, I'm Magesh — **AI Engineer** Focused on building real-time AI solutions.
 > [Semantic Segmentation using DeepLabV3](https://medium.com/technovators/semantic-segmentation-using-deeplabv3-ce68621e139e)
 
 ## OCR:
+> [Scene Text Detection In Python with EAST and CRAFT](https://medium.com/technovators/scene-text-detection-in-python-with-east-and-craft-cbe03dda35d5)
+
 > [Improving OCR Accuracy with Image preprocessing](https://medium.com/technovators/survey-on-image-preprocessing-techniques-to-improve-ocr-accuracy-616ddb931b76)
 
 ## NLP Blogs:
