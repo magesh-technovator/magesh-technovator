@@ -1,18 +1,18 @@
-[2.1]: https://github.com/MageshDominator/MageshDominator/blob/master/assets/github.png (github)
-[4.1]: https://github.com/MageshDominator/MageshDominator/blob/master/assets/medium.png (medium)
-[5.1]: https://github.com/MageshDominator/MageshDominator/blob/master/assets/linkedin.png (linkedin)
+[2.1]: https://github.com/magesh-technovator/magesh-technovator/blob/master/assets/github.png (github)
+[4.1]: https://github.com/magesh-technovator/magesh-technovator/blob/master/assets/medium.png (medium)
+[5.1]: https://github.com/magesh-technovator/magesh-technovator/blob/master/assets/linkedin.png (linkedin)
 
-[4]: http://www.medium.com/@MageshDominator
-[2]: https://www.github.com/MageshDominator
-[5]: https://www.linkedin.com/in/magesh2921
+[4]: http://www.medium.com/@magesh-technovator
+[2]: https://www.github.com/magesh-technovator
+[5]: https://www.linkedin.com/in/magesh-technovator
 
 # AI Engineer, Tech Geek, and a Passionate Programmer!
 
 Hi, I'm Magesh — **AI Engineer** Focused on building real-time AI solutions.
 
-[![medium MageshDominator][4.1]][4]
-[![github MageshDominator][2.1]][2]
-[![linkedin MageshDominator][5.1]][5]
+[![medium magesh-technovator][4.1]][4]
+[![github magesh-technovator][2.1]][2]
+[![linkedin magesh-technovator][5.1]][5]
 
 ## Skills:
 
@@ -65,6 +65,6 @@ Hi, I'm Magesh — **AI Engineer** Focused on building real-time AI solutions.
 > [Improving OCR Accuracy with Image preprocessing](https://medium.com/technovators/survey-on-image-preprocessing-techniques-to-improve-ocr-accuracy-616ddb931b76)
 
 ## NLP Blogs:
-> [Topic Modeling: Art of Storytelling in NLP](https://medium.com/@MageshDominator/topic-modeling-art-of-storytelling-in-nlp-4dc83e96a987) --Survey on Topic Modeling LSA, pLSA, LDA with implementation in python
+> [Topic Modeling: Art of Storytelling in NLP](https://medium.com/@magesh-technovator/topic-modeling-art-of-storytelling-in-nlp-4dc83e96a987) --Survey on Topic Modeling LSA, pLSA, LDA with implementation in python
 
-> [Multi-label text classification](https://medium.com/@MageshDominator/machine-learning-based-multi-label-text-classification-9a0e17f88bb4) --Survey on Multi-label text classification, with detailed explanation and implementation of various Machine algorithms, problem transformation and evalution metrics
+> [Multi-label text classification](https://medium.com/@magesh-technovator/machine-learning-based-multi-label-text-classification-9a0e17f88bb4) --Survey on Multi-label text classification, with detailed explanation and implementation of various Machine algorithms, problem transformation and evalution metrics
