@@ -14,7 +14,7 @@ Hi, I'm Magesh — **AI Engineer** Focused on building real-time AI solutions.
 [![github magesh-technovator][2.1]][2]
 [![linkedin magesh-technovator][5.1]][5]
 
-## AI Products Delivered:
+## AI Solutions:
 #### Tourism Industry:
 > NLP: Multi-lingual Sentiment Analysis on Tourism Data
 
