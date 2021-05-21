@@ -14,6 +14,15 @@ Hi, I'm Magesh — **AI Engineer** Focused on building real-time AI solutions.
 [![github magesh-technovator][2.1]][2]
 [![linkedin magesh-technovator][5.1]][5]
 
+## Hats:
+> Current Role: Machine Learning Engineer @yougroup.io - NLP for Tourism Industry
+
+> AI Engineer @Concord - NLP, Computer Vision for Document Intelligence
+
+> Computer Vision Engineer @WIPRO - ADAS L3
+
+> ML Engineer @WIPRO - Fullstack Datascience
+
 ## AI Solutions:
 #### Tourism Industry:
 > NLP: Multi-lingual Sentiment Analysis on Tourism Data
@@ -44,9 +53,9 @@ Hi, I'm Magesh — **AI Engineer** Focused on building real-time AI solutions.
 
 > AWS || Azure || GCP
 
-## AI Tasks:
-#### NLP:
-> NER
+## Familiar AI Tasks:
+#### Natural Language Processing:
+> Named Entity Recognition
 
 > Semantic Search
 
@@ -54,22 +63,12 @@ Hi, I'm Magesh — **AI Engineer** Focused on building real-time AI solutions.
 
 > Text Classification
 
-#### CV:
+#### Computer Vision:
 > Segmentation
 
 > Object Detection
 
 > Image Classification
-
-## Hats:
-> Machine Learning Engineer @yougroup.io - NLP for Tourism Industry
-
-> AI Engineer @Concord - NLP, Computer Vision for Document Intelligence
-
-> Computer Vision Engineer @WIPRO - ADAS L3
-
-> ML Engineer @WIPRO - Fullstack Datascience
-
 
 ## Love To:
 
