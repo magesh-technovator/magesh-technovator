@@ -17,12 +17,16 @@ Hi, I'm Magesh — **AI Engineer** Focused on building real-time AI solutions.
 ## AI Products Delivered:
 #### Tourism Industry:
 > NLP: Multi-lingual Sentiment Analysis on Tourism Data
+
 > NLP: Semantic Similarity / Search on Tourism Data
+
 > NLP: Machine Translation
+
 > CV: User Demographics Analysis(Age, Gender)
 
 #### Document Intelligence Solutions:
 > NLP: NER and Text Classification on Scanned Healthcare Documents
+
 > CV: Layout Analysis, OCR and Table Extraction from Scanned Documents
 
 #### ADAS Solutions:
@@ -43,13 +47,18 @@ Hi, I'm Magesh — **AI Engineer** Focused on building real-time AI solutions.
 ## AI Tasks:
 #### NLP:
 > NER
+
 > Semantic Search
+
 > Machine Translation
+
 > Text Classification
 
 #### CV:
 > Segmentation
+
 > Object Detection
+
 > Image Classification
 
 ## Hats:
