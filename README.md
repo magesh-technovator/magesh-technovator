@@ -64,6 +64,8 @@ Hi, I'm Magesh — **AI Engineer** Focused on building real-time AI solutions.
 > Text Classification
 
 #### Computer Vision:
+> Optical Character Recognition (OCR)
+
 > Segmentation
 
 > Object Detection
