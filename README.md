@@ -14,16 +14,43 @@ Hi, I'm Magesh — **AI Engineer** Focused on building real-time AI solutions.
 [![github magesh-technovator][2.1]][2]
 [![linkedin magesh-technovator][5.1]][5]
 
+## AI Products Delivered:
+#### Tourism Industry:
+> NLP: Multi-lingual Sentiment Analysis on Tourism Data
+> NLP: Semantic Similarity / Search on Tourism Data
+> NLP: Machine Translation
+> CV: User Demographics Analysis(Age, Gender)
+
+#### Document Intelligence Solutions:
+> NLP: NER and Text Classification on Scanned Healthcare Documents
+> CV: Layout Analysis, OCR and Table Extraction from Scanned Documents
+
+#### ADAS Solutions:
+> CV: Object Detection, Lane Segmentation, Traffic Sign Recognition
+
 ## Skills:
 
 > Deep Learning || NLP || MLOps || Computer Vision || Datascience
+
+> ETL || PySpark
 
 > Pytorch || Tensorflow || Transformers || spaCy || OpenCV
 
 > Serverless || Airflow || Docker || Microservices || Kubernetes
 
-> AWS || Azure || Heroku || GCP
+> AWS || Azure || GCP
 
+## AI Tasks:
+#### NLP:
+> NER
+> Semantic Search
+> Machine Translation
+> Text Classification
+
+#### CV:
+> Segmentation
+> Object Detection
+> Image Classification
 
 ## Hats:
 > Machine Learning Engineer @yougroup.io - NLP for Tourism Industry
