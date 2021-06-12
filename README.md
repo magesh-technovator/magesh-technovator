@@ -8,7 +8,7 @@
 
 # AI Engineer, Tech Geek, and a Passionate Programmer!
 
-Hi, I'm Magesh — **AI Engineer** Focused on building real-time AI solutions.
+Hi, I'm [Magesh](https://mageshwaran.com) — **AI Engineer** Focused on building real-time AI solutions.
 
 [![medium magesh-technovator][4.1]][4]
 [![github magesh-technovator][2.1]][2]
