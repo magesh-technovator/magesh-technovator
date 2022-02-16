@@ -15,7 +15,9 @@ Hi, I'm [Magesh](https://mageshwaran.com) — **AI Engineer** Focused on buildin
 [![linkedin magesh-technovator][5.1]][5]
 
 ## Hats:
-> Current Role: Machine Learning Engineer @yougroup.io - NLP for Tourism Industry
+> Current Role: Senior AI Consultant @Astrazeneca - AI/NLP/MLOps for research in Pharmaceutical Industry
+
+> Machine Learning Engineer @yougroup.io - NLP, Data Infra for Tourism Metasearch
 
 > AI Engineer @Concord - NLP, Computer Vision for Document Intelligence
 
